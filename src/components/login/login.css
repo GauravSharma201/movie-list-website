@@ -1,0 +1,23 @@
+.loginSec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+.loginCont {
+  width: 31vw;
+  height: 54vh;
+  background-color: whitesmoke;
+  border-radius: 9px;
+  border: 2px solid blueviolet;
+}
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 42.3vh;
+  border-radius: 9px;
+}
